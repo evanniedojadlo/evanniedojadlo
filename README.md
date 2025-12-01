@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Evan Niedojadlo</h1>
 <h4 align="center">I'm an Engineer that is currently focused on Infrastructure and Operations with some Security sprinkled on top. I'm excited to be here and help others learn.</h4>
 
 - 🔭&nbsp;I’m currently working at Peddle and on various projects within Cirrus Loft.
