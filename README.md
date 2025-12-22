@@ -8,7 +8,7 @@
 
 - 🌎&nbsp;I've traveled to work with and train remote teams throughout the world. 
 
-- 🎸&nbsp;If I'm not on a computer, you can find me brewing, making music, or spending time with family and friends.
+- 🎸&nbsp;If I'm not on a computer, you can find me staying active, making music, or spending time with family and friends.
 
 ### Recent conversations 
 
